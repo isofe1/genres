@@ -1,94 +1,163 @@
 [
-    {
-        "genre": "Romance",
-        "backdrop": "https://image.tmdb.org/t/p/original/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg"
-    },
-    {
-        "genre": "Drama",
-        "backdrop": "https://image.tmdb.org/t/p/original/5yk3QwnQxzwKfhU1tlDkV2PSIBz.jpg"
-    },
-    {
-        "genre": "Comedy",
-        "backdrop": "https://image.tmdb.org/t/p/original/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg"
-    },
-    {
-        "genre": "Action",
-        "backdrop": "https://image.tmdb.org/t/p/original/h65719ESgj2e1ekFHkawJmYHLmO.jpg"
-    },
-    {
-        "genre": "Thriller",
-        "backdrop": "https://image.tmdb.org/t/p/original/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg"
-    },
-    {
-        "genre": "Mystery",
-        "backdrop": "https://image.tmdb.org/t/p/original/6OfitF3ifOJmlglcixB3ixnNydW.jpg"
-    },
-    {
-        "genre": "Crime",
-        "backdrop": "https://image.tmdb.org/t/p/original/ikU9een11dr6UFy0XzQMJv3YJQq.jpg"
-    },
-    {
-        "genre": "Fantasy",
-        "backdrop": "https://image.tmdb.org/t/p/original/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg"
-    },
-    {
-        "genre": "Horror",
-        "backdrop": "https://image.tmdb.org/t/p/original/qFKb25O9ROiGYt3GwtuXG5Lb2J.jpg"
-    },
-    {
-        "genre": "Sci-Fi",
-        "backdrop": "https://image.tmdb.org/t/p/original/sP0R5F8fkVM0eHcRFXr012rzNAM.jpg"
-    },
-    {
-        "genre": "Music",
-        "backdrop": "https://image.tmdb.org/t/p/original/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg"
-    },
-    {
-        "genre": "War",
-        "backdrop": "https://image.tmdb.org/t/p/original/gqqfN3XeWZcZZ2uQQEEFp3fHfSp.jpg"
-    },
-    {
-        "genre": "Historical",
-        "backdrop": "https://image.tmdb.org/t/p/original/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg"
-    },
-    {
-        "genre": "Wuxia",
-        "backdrop": "https://image.tmdb.org/t/p/original/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg"
-    },
-    {
-        "genre": "Melodrama",
-        "backdrop": "https://image.tmdb.org/t/p/original/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg"
-    },
-    {
-        "genre": "Revenge",
-        "backdrop": "https://image.tmdb.org/t/p/original/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg"
-    },
-    {
-        "genre": "Medical",
-        "backdrop": "https://image.tmdb.org/t/p/original/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg"
-    },
-    {
-        "genre": "Fantasy/Law",
-        "backdrop": "https://image.tmdb.org/t/p/original/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg"
-    },
-    {
-        "genre": "Youth",
-        "backdrop": "https://image.tmdb.org/t/p/original/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg"
-    },
-    {
-        "genre": "Time Travel",
-        "backdrop": "https://image.tmdb.org/t/p/original/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg"
-    },
-    {
-        "genre": "Business",
-        "backdrop": "https://image.tmdb.org/t/p/original/5K4e5pVYRSohHi5n5hnkPxxOrUG.jpg"
-    },
-    {
-        "genre": "Zombie",
-        "backdrop": "https://image.tmdb.org/t/p/original/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg"
-    },
-    {
-        "genre": "Reincarnation",
-        "backdrop": "https://image.tmdb.org/t/p/original/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg"
-    }
+  {
+    "name": "Romance",
+    "type": "Genre",
+    "mv_id": 10749,
+    "tv_id": 10766,
+    "bg_url": "https://image.tmdb.org/t/p/w185/lq0YqJuffMuZhoKTiC5xDqvtCSn.jpg"
+  },
+  {
+    "name": "Drama",
+    "type": "Genre",
+    "mv_id": 18,
+    "tv_id": 18,
+    "bg_url": "https://image.tmdb.org/t/p/w185/5yk3QwnQxzwKfhU1tlDkV2PSIBz.jpg"
+  },
+  {
+    "name": "Comedy",
+    "type": "Genre",
+    "mv_id": 35,
+    "tv_id": 35,
+    "bg_url": "https://image.tmdb.org/t/p/w185/6dxB0dFDeBwB3jwhKlLdPEKYFD6.jpg"
+  },
+  {
+    "name": "Action",
+    "type": "Genre",
+    "mv_id": 28,
+    "tv_id": 10759,
+    "bg_url": "https://image.tmdb.org/t/p/w185/h65719ESgj2e1ekFHkawJmYHLmO.jpg"
+  },
+  {
+    "name": "Thriller",
+    "type": "Genre",
+    "mv_id": 53,
+    "tv_id": 80,
+    "bg_url": "https://image.tmdb.org/t/p/w185/uM6WJodeCyTp7h7NhE4rgd0RbRZ.jpg"
+  },
+  {
+    "name": "Mystery",
+    "type": "Genre",
+    "mv_id": 9648,
+    "tv_id": 9648,
+    "bg_url": "https://image.tmdb.org/t/p/w185/6OfitF3ifOJmlglcixB3ixnNydW.jpg"
+  },
+  {
+    "name": "Crime",
+    "type": "Genre",
+    "mv_id": 80,
+    "tv_id": 80,
+    "bg_url": "https://image.tmdb.org/t/p/w185/ikU9een11dr6UFy0XzQMJv3YJQq.jpg"
+  },
+  {
+    "name": "Fantasy",
+    "type": "Genre",
+    "mv_id": 14,
+    "tv_id": 10765,
+    "bg_url": "https://image.tmdb.org/t/p/w185/nBZyWSGAUEzCH7Mna0zUNTpBQlQ.jpg"
+  },
+  {
+    "name": "Horror",
+    "type": "Genre",
+    "mv_id": 27,
+    "tv_id": 9648,
+    "bg_url": "https://image.tmdb.org/t/p/w185/qFKb25O9ROiGYt3GwtuXG5Lb2J.jpg"
+  },
+  {
+    "name": "Sci-Fi",
+    "type": "Genre",
+    "mv_id": 878,
+    "tv_id": 10765,
+    "bg_url": "https://image.tmdb.org/t/p/w185/sP0R5F8fkVM0eHcRFXr012rzNAM.jpg"
+  },
+  {
+    "name": "Music",
+    "type": "Genre",
+    "mv_id": 10402,
+    "tv_id": 10766,
+    "bg_url": "https://image.tmdb.org/t/p/w185/vbkpl0ps4s5tMTUnC7SFXNzWmVr.jpg"
+  },
+  {
+    "name": "War",
+    "type": "Genre",
+    "mv_id": 10752,
+    "tv_id": 10768,
+    "bg_url": "https://image.tmdb.org/t/p/w185/gqqfN3XeWZcZZ2uQQEEFp3fHfSp.jpg"
+  },
+  {
+    "name": "Historical",
+    "type": "Genre",
+    "mv_id": 36,
+    "tv_id": 10768,
+    "bg_url": "https://image.tmdb.org/t/p/w185/r4zdLKWNIEBozeDC6YBZqj66b7c.jpg"
+  },
+  {
+    "name": "Wuxia",
+    "type": "Keyword",
+    "mv_id": 209257,
+    "tv_id": 209257,
+    "bg_url": "https://image.tmdb.org/t/p/w185/v0It4jPMkYT3H57x6ot4Fd56C8E.jpg"
+  },
+  {
+    "name": "Melodrama",
+    "type": "Keyword",
+    "mv_id": 160352,
+    "tv_id": 160352,
+    "bg_url": "https://image.tmdb.org/t/p/w185/wcP3FsRLog4GNEs9PFrDKKQdcof.jpg"
+  },
+  {
+    "name": "Revenge",
+    "type": "Keyword",
+    "mv_id": 9748,
+    "tv_id": 9748,
+    "bg_url": "https://image.tmdb.org/t/p/w185/AjwoDj77HLlqcpwEGqsnvMXm5my.jpg"
+  },
+  {
+    "name": "Medical",
+    "type": "Keyword",
+    "mv_id": 9883,
+    "tv_id": 9883,
+    "bg_url": "https://image.tmdb.org/t/p/w185/ji7KaBHhxb6ngHEHxXHcfEzi9bu.jpg"
+  },
+  {
+    "name": "Fantasy/Law",
+    "type": "Keyword",
+    "mv_id": 10245,
+    "tv_id": 10245,
+    "bg_url": "https://image.tmdb.org/t/p/w185/dNwVnRWE4LRLJ9f3WIWOnIURPwn.jpg"
+  },
+  {
+    "name": "Youth",
+    "type": "Keyword",
+    "mv_id": 180540,
+    "tv_id": 180540,
+    "bg_url": "https://image.tmdb.org/t/p/w185/q5mJ4oKfGc6Cr9reIHFzD0pQzre.jpg"
+  },
+  {
+    "name": "Time Travel",
+    "type": "Keyword",
+    "mv_id": 10041,
+    "tv_id": 10041,
+    "bg_url": "https://image.tmdb.org/t/p/w185/bBKE6Sl9NnueGw1qK2HkrlNaIKG.jpg"
+  },
+  {
+    "name": "Business",
+    "type": "Keyword",
+    "mv_id": 10714,
+    "tv_id": 10714,
+    "bg_url": "https://image.tmdb.org/t/p/w185/5K4e5pVYRSohHi5n5hnkPxxOrUG.jpg"
+  },
+  {
+    "name": "Zombie",
+    "type": "Keyword",
+    "mv_id": 12377,
+    "tv_id": 12377,
+    "bg_url": "https://image.tmdb.org/t/p/w185/8hp2CuGnw1iP5dLBVMAPUv23swx.jpg"
+  },
+  {
+    "name": "Reincarnation",
+    "type": "Keyword",
+    "mv_id": 10892,
+    "tv_id": 10892,
+    "bg_url": "https://image.tmdb.org/t/p/w185/psb3BLQSdTUo47cDcfcdhd3BjWJ.jpg"
+  }
 ]
