@@ -6,11 +6,29 @@
     "pinned_items": [
       {
         "drama_id": "296206",
-        "position": 1
+        "position": 1,
+        "drama": {
+          "slug": "tv-296206",
+          "title": "Agent Kim Reactivated",
+          "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+          "rating": 7.4,
+          "year": 2026,
+          "type": "tv"
+        }
       },
       {
         "drama_id": "276161",
-        "position": 3
+        "position": 3,
+        "drama": {
+          "slug": "tv-276161",
+          "title": "Teach You a Lesson",
+          "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+          "backdrop_url": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+          "rating": 9.467,
+          "year": 2026,
+          "type": "tv"
+        }
       }
     ]
   }
