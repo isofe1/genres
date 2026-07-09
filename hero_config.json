@@ -17,34 +17,6 @@
           "country": "KR",
           "synopsis": ""
         }
-      },
-      {
-        "drama_id": "96648",
-        "position": 2,
-        "drama": {
-          "slug": "tv-96648",
-          "title": "Squid Game",
-          "backdrop_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1200",
-          "rating": 8.7,
-          "year": 2021,
-          "type": "tv",
-          "country": "KR",
-          "synopsis": ""
-        }
-      },
-      {
-        "drama_id": "212151",
-        "position": 3,
-        "drama": {
-          "slug": "tv-212151",
-          "title": "My Demon",
-          "backdrop_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1200",
-          "rating": 8.6,
-          "year": 2023,
-          "type": "tv",
-          "country": "KR",
-          "synopsis": ""
-        }
       }
     ]
   }
