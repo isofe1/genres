@@ -1,7 +1,7 @@
 {
   "hero_config": {
     "mode": "HYBRID",
-    "max_items": 9,
+    "max_items": 6,
     "auto_source": "popular",
     "pinned_items": [
       {
