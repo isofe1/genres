@@ -5,20 +5,6 @@
     "auto_source": "popular",
     "pinned_items": [
       {
-        "drama_id": "111837",
-        "position": 1,
-        "drama": {
-          "slug": "tv-111837",
-          "title": "Willow",
-          "poster_url": "https://image.tmdb.org/t/p/w500/lw4n5CBlLR62nogy46FyJaIFziH.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/93SxdkiR3gBcbG5FxIt0DCBttul.jpg",
-          "rating": 6.615,
-          "year": 2022,
-          "type": "tv",
-          "country": "US"
-        }
-      },
-      {
         "drama_id": "96648",
         "position": 2,
         "drama": {
