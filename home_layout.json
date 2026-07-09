@@ -1,34 +1,64 @@
 [
   {
-    "section_id": "hero_banner",
+    "section_id": "1",
     "layout_type": "HERO",
     "title": "Featured Spotlight",
     "visible": true
   },
   {
-    "section_id": "top_10_global",
+    "section_id": "2",
     "layout_type": "TOP_10",
-    "title": "Top 10 Hits",
+    "title": "Top 10",
     "visible": true
   },
   {
-    "section_id": "kr_jp_mixed",
+    "section_id": "3",
     "layout_type": "DRAMA_RAIL",
-    "title": "Korean & Japanese",
+    "title": "Popular KDramas",
     "visible": true,
     "data_source": {
-      "media_type": "all",
-      "countries": [
-        "KR",
-        "JP"
-      ],
+      "media_type": "tv",
+      "countries": ["KR"],
       "sort_by": "popularity"
     }
   },
   {
-    "section_id": "trending_actors",
+    "section_id": "4",
+    "layout_type": "DRAMA_RAIL",
+    "title": "Top Blockbuster Movies",
+    "visible": true,
+    "data_source": {
+      "media_type": "movie",
+      "countries": ["KR", "JP", "CN"],
+      "sort_by": "rating"
+    }
+  },
+  {
+    "section_id": "5",
     "layout_type": "ACTORS",
     "title": "Trending Stars",
     "visible": true
+  },
+  {
+    "section_id": "6",
+    "layout_type": "DRAMA_RAIL",
+    "title": "Popular JDrama",
+    "visible": true,
+    "data_source": {
+      "media_type": "tv",
+      "countries": ["JP"],
+      "sort_by": "popularity"
+    }
+  },
+  {
+    "section_id": "7",
+    "layout_type": "DRAMA_RAIL",
+    "title": "Popular CDramas",
+    "visible": true,
+    "data_source": {
+      "media_type": "tv",
+      "countries": ["CN"],
+      "sort_by": "popularity"
+    }
   }
 ]
