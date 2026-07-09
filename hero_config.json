@@ -1,8 +1,37 @@
 {
   "hero_config": {
     "mode": "HYBRID",
-    "max_items": 6,
+    "max_items": 9,
     "auto_source": "popular",
-    "pinned_items": []
+    "pinned_items": [
+      {
+        "drama_id": "259837",
+        "position": 1,
+        "drama": {
+          "slug": "tv-259837",
+          "title": "The WONDERfools",
+          "backdrop_url": "https://image.tmdb.org/t/p/w500/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+          "rating": 8,
+          "year": 2026,
+          "type": "tv",
+          "country": "KR",
+          "synopsis": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild,..."
+        }
+      },
+      {
+        "drama_id": "296206",
+        "position": 2,
+        "drama": {
+          "slug": "tv-296206",
+          "title": "Agent Kim Reactivated",
+          "backdrop_url": "https://image.tmdb.org/t/p/w500/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+          "rating": 8,
+          "year": 2026,
+          "type": "tv",
+          "country": "KR",
+          "synopsis": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the..."
+        }
+      }
+    ]
   }
 }
