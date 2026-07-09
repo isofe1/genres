@@ -9,11 +9,11 @@
         "position": 1,
         "drama": {
           "slug": "tv-296206",
-          "title": "Agent Kim Reactivated",
-          "poster_url": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
-          "rating": 7.4,
-          "year": 2026,
+          "title": "Drama (ID: 296206)",
+          "poster_url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=600",
+          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
+          "rating": 8,
+          "year": 2024,
           "type": "tv",
           "country": "KR"
         }
@@ -23,11 +23,11 @@
         "position": 3,
         "drama": {
           "slug": "tv-276161",
-          "title": "Teach You a Lesson",
-          "poster_url": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-          "backdrop_url": "https://image.tmdb.org/t/p/w1280/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
-          "rating": 9.467,
-          "year": 2026,
+          "title": "Drama (ID: 276161)",
+          "poster_url": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=600",
+          "backdrop_url": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?q=80&w=1200",
+          "rating": 8,
+          "year": 2024,
           "type": "tv",
           "country": "KR"
         }
