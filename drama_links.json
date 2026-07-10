@@ -7,12 +7,12 @@
     "seasons": {
       "1": {
         "1": {
-          "stream_url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4",
-          "download_url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4"
+          "stream_url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4",
+          "download_url": "https://storage.googleapis.com/exoplayer-test-media-0/BigBuckBunny_320x180.mp4"
         },
         "2": {
-          "stream_url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4",
-          "download_url": "https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_5MB.mp4"
+          "stream_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+          "download_url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
         }
       }
     }
